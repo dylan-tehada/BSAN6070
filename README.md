@@ -28,5 +28,10 @@ The following Python packages are used for data analysis:
 ### 3. Post-processing  
 - Analyze the cleaned data to inspect correlations:  
   - **Numeric variables** vs. **SalePrice**  
-  - **Categorical variables** vs. **SalePrice**  
+  - **Categorical variables** vs. **SalePrice**
+ 
+## Data Analysis Learnings
+- OverallQual, GarageArea, and 1stFlrSF have the highest correlation to changes in SalePrice
+- Numerical variables capturing measurements benefitted from being normalized
+- How to strategically drop columns and address missing data based on business knowledge and final results
 
