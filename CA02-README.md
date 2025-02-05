@@ -1,10 +1,10 @@
-# CA01-Naive Bayes Assignment
+# CA02-Naive Bayes Assignment
 
 ## Environment Used
 Jupyter Notebook
 
 ## Installation
-Download the [Data.zip](./mnt/data/Data.zip) file to access training and testing files.
+Download the [Data.zip](https://brightspace.lmu.edu/d2l/le/content/268149/viewContent/3385848/View) file to access training and testing files.
 
 ## Packages Used
 ```python
